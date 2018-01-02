@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServiceConfig>
+  <ServiceTimeInterval>30000</ServiceTimeInterval>
+  <MailTrigger>40000</MailTrigger>
+  <Receivers>
+    <Receiver>ashutoshpareek4@gmail.com</Receiver>
+    <Receiver>ashoutoshpareek@gmail.com</Receiver>
+  </Receivers>
+  <WebLinks>
+    <Link1 name = "https://bitconnect.co/" regex=""/>
+    <Link2 name = "https://www.zebpay.com/" regex=""/>
+  </WebLinks>
+</ServiceConfig>
